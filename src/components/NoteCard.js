@@ -47,7 +47,7 @@ function NoteCard({ note, handleDelete, handleEdit }) {
           }
           action={
             <div>
-              <IconButton onClick={() => handleEdit(note)}>
+              <IconButton onClick={() => handleEdit(note?.id)}>
                 <EditIcon />
               </IconButton>
               <IconButton onClick={() => handleDelete(note?.id)}>

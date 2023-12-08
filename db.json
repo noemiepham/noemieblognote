@@ -1,21 +1,25 @@
 {
-  "notes": [{
-      "title": "Yoshi's birthday bash",
-      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      "category": "Reminders",
-      "id": 1
+  "notes": [
+    {
+      "title": "I Dream in Another Language",
+      "details": "When a renowned archaeologist goes missing, his daughter sets out on a perilous journey to the heart of the Amazon rainforest to find him. Along the way, she discovers a hidden city and a dangerous conspiracy that threatens the very balance of power in the world. With the help of a charming rogue, she must navigate treacherous terrain and outwit powerful enemies to save her father and",
+      "category": "Todos",
+      "id": 1,
+      "currentDate": "8th December 2023"
     },
     {
       "title": "Complete my ninja training",
       "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
-      "category": "Work",
-      "id": 2
+      "category": "Money",
+      "id": 2,
+      "currentDate": "8th December 2023"
     },
     {
       "title": "Order a pizza!",
       "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      "category": "Todos",
-      "id": 3
+      "category": "Money",
+      "id": 3,
+      "currentDate": "8th December 2023"
     },
     {
       "title": "Synopsis et détails",

@@ -19,7 +19,7 @@ function App() {
           <Route path="/" element={<Layout />}>
             <Route path="" element={<Notes />} />
             <Route path="create" element={<Create />} />
-            <Route path="edit/:note" element={<Create />} />
+            <Route path="edit/:id" element={<Create />} />
           </Route>
         </Routes>
       </BrowserRouter>
