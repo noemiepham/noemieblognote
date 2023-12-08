@@ -1,0 +1,59 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "Reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "Work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "Todos",
+      "id": 3
+    },
+    {
+      "title": "hello",
+      "details": "this i my new note",
+      "category": "Money",
+      "id": 4
+    },
+    {
+      "title": "my birthday ",
+      "details": "20 july",
+      "category": "Todos",
+      "id": 5
+    },
+    {
+      "title": "to do lis",
+      "details": "what do you want to do ",
+      "category": "Work",
+      "id": 6
+    },
+    {
+      "title": "sss",
+      "details": "sss",
+      "category": "Money",
+      "id": 7
+    },
+    {
+      "title": "qdqdq",
+      "details": "sqsq",
+      "category": "Work",
+      "id": 8
+    },
+    {
+      "title": "today is 8 decembre",
+      "details": "create new node ",
+      "category": "Money",
+      "currentDate": "2023-12-08T10:25:04.473Z",
+      "id": 9
+    }
+  ]
+}
